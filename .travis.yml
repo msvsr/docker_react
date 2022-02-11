@@ -14,7 +14,7 @@ deploy:
   region: "us-east-2"
   app: "docker-learning"
   env: "Dockerlearning-env"
-  bucket_name: "elasticbeanstalk-us-east-2-980367155655Info"
+  bucket_name: "elasticbeanstalk-us-east-2-980367155655"
   bucket_path: "docker-learning"
   on:
     branch: master
